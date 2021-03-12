@@ -1,5 +1,3 @@
 # Scraper Results
 
-Results from API
-
-
+ALL AUTHOR
